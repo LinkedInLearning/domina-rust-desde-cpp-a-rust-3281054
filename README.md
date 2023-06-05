@@ -5,7 +5,10 @@ Este es el repositorio del curso de LinkedIn Learning `[Domina Rust: Migración 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+
+Este curso está orientado a desarrolladores y desarrolladores de software con conocimientos en C++ que quieren aprender a programar en Rust.
+
+A lo largo de diferentes lecciones, implementaremos en Rust muchos de los conceptos que ya conocemos en C++. Aprenderemos a declarar y a definir variables y constantes, nos introduciremos al manejo de cadenas, trabajaremos con tipos más complejos como enumerados y matrices, mostraremos información en pantalla e implementaremos funciones, entre otros.
 
 ## Instrucciones
 Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
