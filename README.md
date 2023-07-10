@@ -1,10 +1,9 @@
 # Domina Rust: Desde C++ a Rust
-Este es el repositorio del curso de LinkedIn Learning `[Domina Rust: Desde C++ a Rust]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Rust: Desde C++ a Rust`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
-
+![image](https://github.com/LinkedInLearning/domina-rust-desde-cpp-a-rust-3281054/assets/71371373/89bc7163-0c03-4b73-b81f-bfc279b81ffe)
+ 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
-
 
 Adquiere habilidades en Rust utilizando tus conocimientos previos de C++ gracias a este contenido. A lo largo de varias lecciones, aprenderás a declarar y definir variables y constantes, así como a sumergirte en el manejo de cadenas de texto. Además, profundizarás en la comprensión de tipos más avanzados como enumeraciones y matrices, mientras te familiarizas con las técnicas para mostrar información en pantalla. Por último, pero no menos importante, implementarás funciones y otros conceptos clave, permitiéndote realizar una transición exitosa desde C++ a Rust y mejorar tus habilidades en el mundo de la programación.
 
@@ -22,7 +21,7 @@ Finalmente, debes saber que cada lección incluye una función principal main, q
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/domina-rust-desde-c-plus-plus-a-rust/dar-el-salto-de-c-plus-plus-a-rust
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
 
 
