@@ -1,7 +1,7 @@
 # Domina Rust: Desde C++ a Rust
 Este es el repositorio del curso de LinkedIn Learning `Domina Rust: Desde C++ a Rust`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://github.com/LinkedInLearning/domina-rust-desde-cpp-a-rust-3281054/assets/71371373/89bc7163-0c03-4b73-b81f-bfc279b81ffe)
+![image][lil-thumbnail-url] 
  
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -22,7 +22,7 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/domina-rust-desde-c-plus-plus-a-rust/dar-el-salto-de-c-plus-plus-a-rust
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFKfL6NVYb3Cg/learning-public-crop_675_1200/0/1688977922182?e=2147483647&v=beta&t=p_945VkbCXJ8gO77M5sROr0x4r5cdeNX_BT2csMP65w
 
 
 [1]: # (End of ES-Instruction ###############################################################################################)
